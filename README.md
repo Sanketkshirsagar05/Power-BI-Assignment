@@ -21,6 +21,3 @@ The repository includes:
 - **Bookmarks & Drill-through**: Enhancing reports with interactive navigation and detailed drill-down views.
 
 This repository is ideal for anyone looking to improve their Power BI skills, specifically in areas like data modeling, report building, and applying advanced features in a real-world context.
-
----
-Feel free to explore the reports and modify them to suit your learning needs.
